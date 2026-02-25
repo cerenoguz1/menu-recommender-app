@@ -131,10 +131,7 @@ Ceren Oguz
 Original creation date: February 18, 2026
 This document serves as a formal record of authorship and concept definition.
 
-Last login: Wed Feb  4 17:36:44 on console
-cerenoguz@vl965-172-31-254-205 ~ % shasum -a 256 ~/Downloads/menu-recommender-idea-v1.pdf
-89bdb6889a39df9dba04f7d37df4d9b5990ab4f91ddff9d325726d11c3e8574e  /Users/cerenoguz/Downloads/menu-recommender-idea-v1.pdf
-cerenoguz@vl965-172-31-254-205 ~ % 
+
 
 
 
