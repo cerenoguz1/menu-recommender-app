@@ -1,7 +1,11 @@
 MENU-BASED PERSONALIZED DISH RECOMMENDER
+
 Idea and Technical Specification Document
+
 Author: Ceren Oguz
+
 Date: February 18, 2026
+
 Location: Amherst, Massachusetts, USA
 
 Abstract
