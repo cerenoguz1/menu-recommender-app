@@ -1,0 +1,10 @@
+[
+  { "id": "ing_garlic", "name": "garlic", "aliases": ["garlic cloves"] },
+  { "id": "ing_chicken", "name": "chicken", "aliases": [] },
+  { "id": "ing_butter", "name": "butter", "aliases": [] },
+  { "id": "ing_tomato", "name": "tomato", "aliases": [] },
+  { "id": "ing_cilantro", "name": "cilantro", "aliases": ["coriander"] },
+  { "id": "ing_olive", "name": "olive", "aliases": [] },
+  { "id": "ing_peanut", "name": "peanut", "aliases": [] },
+  { "id": "ing_shellfish", "name": "shellfish", "aliases": ["shrimp", "crab"] }
+]
